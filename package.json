@@ -1,0 +1,14 @@
+{
+  "name": "swipe",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": "Cody Brunner <rockchalkwushock@icloud.com> (https://rockchalkwushock.github.io/rcws-development/)",
+  "repository": "https://github.com/rockchalkwushock/rn-swipe.git",
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "expo": "16.0.0",
+    "react": "16.0.0-alpha.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-16.0.0.tar.gz"
+  }
+}
