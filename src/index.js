@@ -1,3 +1,4 @@
 import Ball from './Ball';
+import Deck from './Deck';
 
-export { Ball };
+export { Ball, Deck };
